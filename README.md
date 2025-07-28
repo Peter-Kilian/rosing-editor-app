@@ -1,7 +1,26 @@
-# Tauri + SvelteKit + TypeScript
+# Rosing Editor
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+Rosing Editor is a minimalistic code editor designed for users who prefer a clean and simple development environment!
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+* Lightweight and fast
+* Clean, minimal interface
+* Supports Tauri for cross-platform desktop applications
+* Built with SvelteKit and Rust
+
+## Installation
+
+Instructions for installing the editor will be added here.
+
+## Usage
+
+Instructions on how to run and use the editor will be added here.
+
+## Contributing
+
+Contributions are welcome! Please submit issues and pull requests.
+
+## License
+
+This project is licensed under the \[MIT] license. See the [LICENSE](LICENSE) file for details.
